@@ -10,6 +10,18 @@ body {
 }
 
 button { 
-
+   background-color: blue;
+   color:white;
+   font-family: "bai jamjuree",sans-serif;
     
+}
+ .passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+main {
+    text-align: center;
+    max-width: 90%;
 }
